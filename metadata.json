@@ -1,0 +1,5 @@
+{
+  "name": "ai.ops Chat",
+  "description": "A clean, card-based ChatGPT-like interface powered by Qwen3 via a custom Ollama backend, now with secure user authentication.",
+  "requestFramePermissions": []
+}
